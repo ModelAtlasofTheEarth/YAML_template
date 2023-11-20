@@ -17,7 +17,8 @@ software:
     url_source: 
 licence:
   - name:
-  - url:
+  - licence_url:
+  - licence_image:
   - description:
 contributor:
     name:

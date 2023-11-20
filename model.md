@@ -1,21 +1,21 @@
 ---
 templateKey: 'model'
-slug: 'sandiford-2021-detachment'
-title: 'Kinematics of Footwall Exhumation at Oceanic Detachment faults: Solid-Block Rotation and Apparent Unbending'
-date: 2023-08-28T17:04:10.000Z
+slug:
+title:
+date:
 featuredpost: false
 for_codes:
-  - 3706
-  - 370604
-status: completed
-software: ASPECT
-licence: cc-by-4.0
+  - 
+  - 
+status:
+software:
+licence:
 uploader:
-  name: Dan Sandiford
-  email: dan.sandiford@sydney.edu.au
+  name:
+  email:
 authors:
-  - name: Dan Sandiford
-    email: dan.sandiford@sydney.edu.au
+  - name:
+    email:
 tags:
   - tectonics
   - extension

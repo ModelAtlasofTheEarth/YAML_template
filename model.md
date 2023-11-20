@@ -12,6 +12,9 @@ licence:
 uploader:
   name:
   email:
+contributor:
+  - name:
+    email:
 authors:
   - name:
     email:

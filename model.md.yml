@@ -57,16 +57,16 @@ abstract: >
 images:
   landing_image:
     src:
-    alt:
+    caption:
   graphic_abstract:
     src:
-    alt:
+    caption:
   model_setup:
     src:
-    alt:
+    caption:
 animations:
   - src:
-    alt:
+    caption:
 dataset:
   url: 
   doi:

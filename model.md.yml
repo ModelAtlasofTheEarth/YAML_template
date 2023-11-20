@@ -17,10 +17,10 @@ software:
     doi:
     url_source: 
 licence:
-  - name:
-  - licence_url:
-  - licence_image:
-  - description:
+  name:
+  licence_url:
+  licence_image:
+  description:
 contributor:
     name:
     family_name:

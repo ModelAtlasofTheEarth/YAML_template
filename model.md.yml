@@ -22,10 +22,10 @@ licence:
   licence_image:
   description:
 contributor:
-    name:
-    family_name:
-    ORCID:
-    affiliation:
+  name:
+  family_name:
+  ORCID:
+  affiliation:
 #repeat these items for several authors
 authors:
   - name:
@@ -39,20 +39,20 @@ associated_publication:
     publisher:
     doi:
     url:
-compute info:
+compute_info:
   computer_name:
   organisation:
   doi:
   url:
 research_tags:
   -
-compute tags:
+compute_tags:
   -
 grants_funders:
   - funder_name:
     number_id:
     doi:
-abstract: >
+abstract:
 images:
   landing_image:
     src:
@@ -69,7 +69,7 @@ animations:
 dataset:
   url: 
   doi:
-  notes: >
+  notes:
   file_tree:
 model_files:
   url: 

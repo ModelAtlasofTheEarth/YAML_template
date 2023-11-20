@@ -31,7 +31,14 @@ associated publication:
     publisher:
     doi:
     url:
-tags:
+compute info:
+  computer name:
+  organisation:
+  doi:
+  url:
+research tags:
+  -
+compute tags:
   -
 abstract: >
 

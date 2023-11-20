@@ -20,10 +20,16 @@ contributor:
     affiliation:
 authors:
   - name:
-  - family name:
+    family name:
     email:
     ORCID:
     affiliation:
+associated publication:
+  - title:
+    journal:
+    publisher:
+    doi:
+    url:
 tags:
   -
 abstract: >

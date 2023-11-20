@@ -8,14 +8,19 @@ for_codes:
   - 
 status:
 software:
+  - name:
+    doi:
+    url/source: 
 licence:
 contributor:
     name:
+    family name:
     email:
     ORCID:
     affiliation:
 authors:
   - name:
+  - family name:
     email:
     ORCID:
     affiliation:

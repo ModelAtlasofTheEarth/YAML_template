@@ -67,7 +67,9 @@ dataset:
   url: 
   doi:
   notes: >
+  file_tree:
 model_files:
   url:
   notes:
+  file_tree:
 ---

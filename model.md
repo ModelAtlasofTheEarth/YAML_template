@@ -9,23 +9,18 @@ for_codes:
 status:
 software:
 licence:
-uploader:
-  name:
-  email:
 contributor:
-  - name:
+    name:
     email:
+    ORCID:
+    affiliation:
 authors:
   - name:
     email:
+    ORCID:
+    affiliation:
 tags:
-  - tectonics
-  - extension
-  - mid-ocean ridge
-  - attempted reproduction of a previous model 
-  - model output data
-  - model input files
-  - C++
+  -
 abstract: >
 
 images:

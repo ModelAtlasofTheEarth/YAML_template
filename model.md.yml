@@ -23,14 +23,12 @@ licence:
 contributor:
     name:
     family_name:
-    email:
     ORCID:
     affiliation:
 #repeat these items for several authors
 authors:
   - name:
     family_name:
-    email:
     ORCID:
     affiliation:
 #repeat thes items for several authors
@@ -73,7 +71,7 @@ dataset:
   notes: >
   file_tree:
 model_files:
-  url:
+  url: 
   notes:
   file_tree:
 ---

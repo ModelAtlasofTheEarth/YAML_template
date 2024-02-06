@@ -62,8 +62,9 @@ images:
   model_setup:
     src:
     caption:
+#plural is used here, but model submission only takes care of 1
 animations:
-  - src:
+    src:
     caption:
 dataset:
   url: 

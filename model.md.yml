@@ -61,7 +61,7 @@ images:
     caption:
   model_setup:
     src:
-    caption:
+    caption:doi:
 #plural is used here, but model submission only takes care of 1
 animations:
     src:
@@ -72,7 +72,8 @@ dataset:
   notes:
   file_tree:
 model_files:
-  url: 
+  url:
+  doi:
   notes:
   file_tree:
 ---

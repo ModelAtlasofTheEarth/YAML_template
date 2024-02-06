@@ -10,9 +10,8 @@ featuredpost: false
 for_codes:
   - 
 status:
-#repeat these items for several softwares
 software:
-  - name:
+   name:
     doi:
     url_source: 
 licence:
@@ -31,9 +30,10 @@ authors:
     family_name:
     ORCID:
     affiliation:
-#repeat these items for several publications
+#our workflow is premised on harvesting metadata from a single source publication
+#we currently don't have the facility to add multiple publications to the ro-crate
 associated_publication:
-  - title:
+    title:
     journal:
     publisher:
     doi:

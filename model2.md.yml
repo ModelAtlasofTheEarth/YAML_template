@@ -1,0 +1,63 @@
+---
+templateKey: null
+slug: null
+title: null
+date: null
+featuredpost: null
+for_codes: null
+status: null
+software: null
+licence:
+  name: null
+  licence_url: null
+  licence_image: null
+  description: null
+  licence_file: null
+contributor:
+  name: null
+  family_name: null
+  ORCID: null
+  affiliation: null
+authors: null
+associated_publication:
+  DOI: null
+  URL: null
+  author: null
+  container_title: null
+  issue: null
+  issued:
+    date_parts: null
+  title: null
+  type: null
+  volume: null
+compute_info:
+  computer_name: null
+  organisation: null
+  url: null
+research_tags: null
+compute_tags: null
+grants_funders: null
+abstract: null
+images:
+  landing_image:
+    src: null
+    caption: null
+  graphic_abstract:
+    src: null
+    caption: null
+  model_setup:
+    src: null
+    caption: null
+animations: null
+model_setup_info:
+  url: null
+  summary: null
+dataset:
+  url: null
+  doi: null
+  notes: null
+  file_tree: null
+model_files:
+  url: null
+  notes: null
+---
